@@ -7,8 +7,9 @@
     <script>
         function getRandomImage() {
             const images = [
-                "https://cdn.midjourney.com/example1.jpg",
-                "https://cdn.midjourney.com/example2.jpg",
+                "https://www.midjourney.com/jobs/ced6007a-16f2-45fb-8703-f3749f64d834?index=0",
+                "https://www.midjourney.com/jobs/4e62018f-a461-4fa9-ac87-f0104282f792?index=0",
+                "https://www.midjourney.com/jobs/0e87d55a-bed5-43e6-bf75-03576eb515fc?index=0",
                 "https://cdn.midjourney.com/example3.jpg"
             ];
             const randomImage = images[Math.floor(Math.random() * images.length)];
